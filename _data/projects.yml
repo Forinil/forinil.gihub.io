@@ -1,0 +1,79 @@
+projects_repo_list_title: "My repositories:"
+project_repositories:
+  - title: "ArrayList"
+    link: "https://github.com/Forinil/ArrayList"
+    type: "github"
+  - title: "ChangeLineEnding"
+    link: "https://github.com/Forinil/change_line_ending"
+    type: "github"
+  - title: "FindLine"
+    link: "https://github.com/Forinil/find_line"
+    type: "github"
+  - title: "JavaScriptLogger"
+    link: "https://github.com/Forinil/JavaScriptLogger"
+    type: "github"
+  - title: "KotlinScriptTest"
+    link: "https://github.com/Forinil/KotlinScriptTest"
+    type: "github"
+  - title: "LenientHostnameVerifierAgent"
+    link: "https://github.com/Forinil/LenientHostnameVerifierAgent"
+    type: "github"
+  - title: "SHA1Cracker"
+    link: "https://github.com/Forinil/SHA1Cracker"
+    type: "github"
+  - title: "TextCrypt"
+    link: "https://github.com/Forinil/TextCrypt"
+    type: "github"
+  - title: "TomcatManagerCMD"
+    link: "https://github.com/Forinil/TomcatManagerCMD"
+    type: "github"
+  - title: "TomcatUserManager"
+    link: "https://github.com/Forinil/TomcatUserManager"
+    type: "github"
+  - title: "XmlMerge"
+    link: "https://github.com/Forinil/XmlMerge"
+    type: "github"
+
+project_pages_list_title: "My projects:"
+project_pages:
+  - language: "Java"
+    projects:
+      - title: "LenientHostnameVerifierAgent"
+        link: "/LenientHostnameVerifierAgent"
+        active: false
+      - title: "TomcatManagerCMD"
+        link: "/TomcatManagerCMD"
+        active: false
+      - title: "TomcatUserManager"
+        link: "/TomcatUserManager"
+        active: false
+  - language: "Kotlin"
+    projects:
+      - title: "JavaScriptLogger"
+        link: "/JavaScriptLogger"
+        active: false
+      - title: "KotlinScriptTest"
+        link: "/KotlinScriptTest"
+        active: false
+      - title: "SHA1Cracker"
+        link: "/SHA1Cracker"
+        active: false
+      - title: "TextCrypt"
+        link: "/TextCrypt"
+        active: false
+      - title: "XmlMerge"
+        link: "/XmlMerge"
+        active: false
+  - language: "Ruby"
+    projects:
+      - title: "ChangeLineEnding"
+        link: "/change_line_ending"
+        active: false
+      - title: "FindLine"
+        link: "/find_line"
+        active: false
+  - language: "C++"
+    projects:
+      - title: "ArrayList"
+        link: "/ArrayList"
+        active: false
